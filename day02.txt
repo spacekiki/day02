@@ -105,6 +105,9 @@ git repository에 존재하는 브랜치 목록 확인
 브랜치 만들기
   git branch 브랜치이름(브랜치이름자기마음)
 
+브랜치 이동하기
+  git checkout 브랜치이름
+
 브랜치 병합하기 
   git merge 브랜치이름 
 
@@ -120,7 +123,6 @@ git repository에 존재하는 브랜치 목록 확인
 
 브랜치 이름 바꾸기 
   git branch -m 브랜치이름 
-
 
 github 
   연결 
