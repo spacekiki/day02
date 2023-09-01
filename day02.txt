@@ -60,7 +60,7 @@ stage에 한번에 모든 파일 올리기
 
 커밋하면서 add 하는 옵션
   -a 옵션 
-  git commit -a
+  git commit -a : add 가 되고 커밋이 된다.
 
   단, 파일이 tracked 상태일때만 가능 
   -->untracked 라면 사용불가 
