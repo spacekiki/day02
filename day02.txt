@@ -103,7 +103,7 @@ git repository에 존재하는 브랜치 목록 확인
   git branch
 
 브랜치 만들기
-  git branch 브랜치이름
+  git branch 브랜치이름(브랜치이름자기마음)
 
 브랜치 병합하기 
   git merge 브랜치이름 
