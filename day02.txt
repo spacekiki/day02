@@ -68,7 +68,7 @@ stage에 한번에 모든 파일 올리기
 
 두가지 동시에 
   -am 
-  git commit -am '메시지'
+  git commit -am '메시지' : 옵션을 동시 사용한다.
 
 초기설정
   git init으로 깃 레포지토리로 만든다 
